@@ -1,0 +1,2 @@
+# obamicon
+colored picture
